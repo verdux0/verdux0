@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&height=400&size=100&duration=3000&pause=1000&color=0981F7&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Front-End+Web+Developer;creativity!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&height=400&size=100&duration=3000&pause=1000&color=FFEB3B&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Front-End+Web+Developer;creativity!)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 Developing small tools for entretainment :P<br><br>🌱 I’m currently learning Javascript :D<br><br>⚡ Fun fact about me: I love tattoo and graffiti !
