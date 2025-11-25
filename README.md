@@ -1,4 +1,18 @@
 <div align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/dee25fea-ff26-4762-9e80-6f08b60384b6"
+    alt="image"
+    style="max-width: 100%; height: auto;"
+  >
+</div>
+
+
+
+
+<details>
+  <summary><h2>in the case you are curious..</h2></summary>
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&height=400&size=100&duration=3000&pause=1000&color=FFEB3B&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Front-End+Web+Developer;creativity!)](https://git.io/typing-svg)
 
@@ -88,5 +102,4 @@
 
 </div>
 
-
-</div>
+</details>
