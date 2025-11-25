@@ -65,29 +65,28 @@
 
 </div>
 
----
-
 <div align="center">
 
-# 📊 GitHub Stats:
+<table>
+  <tr>
+    <td align="center" colspan="2">
+     <img 
+      src="https://github.com/user-attachments/assets/14172f5e-9015-4a57-a8fb-51b874b3dc57" 
+       alt="BANNER" width="600" 
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Verdux0&theme=dark&hide_border=false" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verdux0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Verdux0&theme=dark&hide_border=false&include_all_commits=false&count_private=false" 
-  width="380"
-/>
+</div>
 
-<br/>
-
-<img 
-  src="https://nirzak-streak-stats.vercel.app/?user=Verdux0&theme=dark&hide_border=false" 
-  width="380"
-/>
-
-<br/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verdux0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
-  width="380"
-/>
 
 </div>
