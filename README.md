@@ -10,7 +10,9 @@
 
 <div id="knowledge" align="center">
 
-
+<p align="center">
+  <img src="assets/knowledge.gif" alt="Knowledge" width="300">
+</p>
 
 <details>
 <summary><h3>🌐 Lenguajes de Programación</h3></summary>
