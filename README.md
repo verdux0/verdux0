@@ -46,7 +46,7 @@
 | technology | level |
 |---|---|
 | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"> | ⭐⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"> | ⭐⭐⭐⭐⭐ |
+| <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"> | ⭐⭐ |
 | <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=plastic&logo=vue.js&logoColor=white"> | ⭐⭐⭐ |
 
 </details>
