@@ -33,27 +33,7 @@
 </details>
 
 
-# $${\color{lightblue} MIS \space PROYECTOS!🎉 }$$
 
-<div align="center">
-
-  <br>
-  
-  <span style="font-size: 1.2em; color: #333;">
-  🤖 <a href="#" style="color: #0e75b6; text-decoration: none;">Desarrollar un chatbot</a> con Node.js.
-  </span>
-  <br>
-
-  <span style="font-size: 1.2em; color: #333;">
-  📷 <del><span>programa de edición de imagenes. </span></del><a href="https://github.com/CorsoCoder/MODT" style="color: #0e75b6; text-decoration: none;">MOD-T </a>
-  </span>
-    
-  <br>
-  
-  <span style="font-size: 1.2em; color: #333;">
-      ...ASI QUE ESTATÉ ATENTO❗❗
-  </span>
-</div>
 
 <br>
 <hr>
@@ -152,6 +132,149 @@
   <img src="https://img.shields.io/badge/TDD-Test%20Driven%20Dev-green?style=plastic&logo=checkmarx&logoColor=white" alt="TDD">
 
 </div>
+
+<br>
+<hr>
+<br>
+<br>
+
+# $${\color{lightblue} MIS \space PROYECTOS!🎉 }$$
+
+<div align="center">
+  <p>Pasado, presente y <strong>FUTURO</strong>.</p>
+</div>
+
+<br>
+
+## 🌐 Web & Fullstack
+
+| Proyecto | Descripción | Stack |
+| :--- | :--- | :--- |
+| **🏆 Mi Portfolio** | Ya existió una versión muy expandida con muchas funcionalidades, pero una corrupción de disco duro y una estafa de un proveedor hizo que perdiese el código. ¡AHORA me propongo crear una versión con React.js con **MÁS y MEJORES** funcionalidades y enfoque! | ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white) |
+| **🤐 [AnonChat](https://github.com/verdux0/anonchat-)** | Chat anónimo seguro para canalizar quejas a RRHH protegiendo la identidad del empleado. | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![Security](https://img.shields.io/badge/Security-Lock-red?style=plastic) |
+| **🎨 CSS Tools** | *GUI* intuitiva para generar layouts en Grid, Flexbox y Float sin tocar código manualmente (pendiente de ser revisada). | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=plastic&logo=javascript&logoColor=black) |
+| **💻 [ansi-html-tags](https://github.com/verdux0/ansi-html-tags)** | Script para cargar banners ASCII y estilos en terminales UNIX/Linux. | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white) ![Unix](https://img.shields.io/badge/Unix-black?style=plastic&logo=linux) |
+
+<br>
+
+## 🛠️ Herramientas de Sistema & Scraping
+
+| Proyecto | Descripción | Stack |
+| :--- | :--- | :--- |
+| **🎵 Makinamania Downloader** | Me gusta la música, y sobre todo la *makina* (género del levante español). Para recopilarla con calidad de forma eficiente, programé un scraper que analiza y genera un JSON con todos los POSTS relevantes del FORO MAKINAMANIA actualmente activo. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white) ![Scraping](https://img.shields.io/badge/Jsoup-orange?style=plastic) |
+| **🚩 CTF Tools** | Repositorio personal donde organizo y documento herramientas que utilizo para hacer CTFs. | ![Hacking](https://img.shields.io/badge/Hacking-Ethical-green?style=plastic&logo=hackthebox) ![Bash](https://img.shields.io/badge/Shell-Script-blue?style=plastic) |
+
+<br>
+
+## 🤖 Primeros pasos en IA
+
+| Proyecto | Descripción | Stack |
+| :--- | :--- | :--- |
+| **🕵️‍♂️ Spam & Abuse Detector** | Clasificador de texto para moderación automática (se implementará próximamente en AnonChat). | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-NLP-yellow?style=plastic) |
+| **🔢 Number Detector** | Reconocimiento de dígitos manuscritos con interfaz web. | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white) ![Web](https://img.shields.io/badge/Web-Interface-blue?style=plastic) |
+| **🧠 Profile Readme Gen** | Proyecto que voy a desarrollar **100% con IA** para aplicar mis conocimientos sobre *prompt engineering*. El objetivo no es el resultado, sino el proceso. | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white) ![Prompts](https://img.shields.io/badge/Prompt-Engineering-purple?style=plastic) |
+
+<br>
+
+## ♻️ Refactorización & WIP (Work in Progress)
+
+| Proyecto | Descripción | Stack |
+| :--- | :--- | :--- |
+| **📚 PDFLib** | Una aplicación web para organizar tus libros con una funcionalidad muy útil, extrae la información de los metadatos, ponle categoria al archivo y a volar. | ![Refactor](https://img.shields.io/badge/Status-Refactor-orange?style=plastic) ![PDF](https://img.shields.io/badge/Data-Extraction-lightgrey?style=plastic) |
+| **📦 OrgaLib** | Modernizando el sistema de organización para bibliotecas físicas. | ![WIP](https://img.shields.io/badge/Status-WIP-yellow?style=plastic) ![Db](https://img.shields.io/badge/DB-Management-blue?style=plastic) |
+| **🖼️ MOD-T v2** | Evolución de un proyecto que se me ocurrió hacer en una tarde que sirve para crear tus propios filtros con IA, a ver si consigo incorporar la IA :P. | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![JSON](https://img.shields.io/badge/Format-JSON-black?style=plastic) |
+
+<br>
+<hr>
+<br>
+
+<h1 align="center">🎓 Formación & Certificaciones</h1>
+
+### 📜 Certificación Oficial
+<div align="left" style="background-color: #f0f6fc; padding: 20px; border-radius: 10px; border-left: 5px solid #0e75b6;">
+  <h3 style="margin-top: 0;">🛡️ Ciberseguridad: Hacking Ético</h3>
+  <p><strong>Código Oficial:</strong> IFCD072PO | <strong>Duración:</strong> 300 Horas</p>
+  <p>Especialidad formativa avalada por el <strong>SEPE (Servicio Público de Empleo Estatal)</strong>.</p>
+  <p><em>Formación técnica superior centrada en auditoría de sistemas, test de intrusión, análisis de vulnerabilidades y defensa de redes bajo estándares oficiales del Ministerio de Trabajo.</em></p>
+</div>
+
+<br>
+
+### 🎖️ TryHackMe Achievements
+<div align="center">
+  <p>Hitos prácticos conseguidos en plataformas de entrenamiento ofensivo/defensivo.</p>
+  
+  <a href="https://tryhackme.com/p/Verduxo">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Verduxo.png" alt="Your Image Badge" />
+  </a>
+  
+  <br><br>
+<h3 align="center">🏆 Logros en TryHackMe</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <a href="https://tryhackme.com/Verduxo/badges/terminaled">
+          <img src="https://tryhackme.com/img/badges/linux.svg" alt="Terminaled" width="100"><br>
+          <b>Terminaled</b>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="https://tryhackme.com/Verduxo/badges/network-fundamentals">
+          <img src="https://tryhackme.com/img/badges/networkfundamentals.svg" alt="Network Fundamentals" width="100"><br>
+          <b>Network Fundamentals</b>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="https://tryhackme.com/Verduxo/badges/world-wide-web">
+          <img src="https://tryhackme.com/img/badges/howthewebworks.svg" alt="World Wide Web" width="100"><br>
+          <b>World Wide Web</b>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="https://tryhackme.com/Verduxo/badges/metasploitable">
+          <img src="https://tryhackme.com/img/badges/metasploit.svg" alt="Metasploitable" width="100"><br>
+          <b>Metasploitable</b>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://tryhackme.com/Verduxo/badges/burped">
+          <img src="https://tryhackme.com/img/badges/burpsuite.svg" alt="Burped" width="100"><br>
+          <b>Burped</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://tryhackme.com/Verduxo/badges/intro-to-pentesting">
+          <img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" alt="Intro to Pentesting" width="100"><br>
+          <b>Intro to Pentesting</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://tryhackme.com/Verduxo/badges/ohsint">
+          <img src="https://tryhackme.com/img/badges/ohsint.svg" alt="OhSINT" width="100"><br>
+          <b>OhSINT</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://tryhackme.com/Verduxo/badges/blue">
+          <img src="https://tryhackme.com/img/badges/blue.svg" alt="Blue" width="100"><br>
+          <b>Blue</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+### ⚡ Formación Continua (Actualmente cursando)
+*   ⚛️ **React:** Familiarizandome con el entorno :D.
+*   ☁️ **AWS Academy:** Arquitectura Cloud general.
+*   🔒 **AWS Security:** Especialización en seguridad en la nube.
+
 
 <br>
 <hr>
