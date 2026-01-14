@@ -1,9 +1,8 @@
-
-
-<details id="ABOUT_ME" align="left" >
-<summary>$${\color{lightgreen} SOBRE \space MI😁 }$$</summary>
-
-  <h3>👨‍💻Álvaro Verdeguer Alarcón</h3>
+<!-- Versión en Español -->
+<details align="left">
+  <summary><strong>🇪🇸 SOBRE MÍ</strong></summary>
+  <br>
+  <h3>👨‍💻 Álvaro Verdeguer Alarcón</h3>
   <p>
     Soy una persona creativa y, por qué no decirlo, a veces obsesiva. Con 14 años me regalaron mi primer ordenador, y el mundo de la informática me asombró profundamente. Empecé a gamberrear creando virus tontos en Batch y, poco a poco, ese amor fue escalando mediante proyectos cada vez más ambiciosos, hasta el punto en el que nos encontramos hoy en día.
   </p>
@@ -26,15 +25,44 @@
   <p>
     Atisbo un futuro conectado a la informática, ya no de una manera tan infantil, sino con ganas de aportar a un gran proyecto en el que poder volcarme y pensar a lo grande.
   </p>
-  
   <blockquote>
     <p><strong>NOTA PARA EL LECTOR:</strong> Hace poco descubrí lo conocido como <strong>"TEST DRIVEN DEVELOPMENT" (TDD)</strong> y me gustó mucho la idea. A partir de ahora todos mis programas tendrán esa implementación profesional que creo que les falta. Mis metodologías de trabajo favoritas son <strong>AGILE</strong> y <strong>TDD</strong>.</p>
   </blockquote>
 </details>
 
+<br>
 
-
-
+<!-- Versión en Inglés -->
+<details align="left">
+  <summary><strong>🇬🇧 ABOUT ME</strong></summary>
+  <br>
+  <h3>👨‍💻 Álvaro Verdeguer Alarcón</h3>
+  <p>
+    I am a creative person and, why not say it, sometimes obsessive. When I was 14, I was gifted my first computer, and the world of computing deeply amazed me. I started by messing around creating silly Batch viruses, and little by little, that love escalated through increasingly ambitious projects, leading to where we are today.
+  </p>
+  <p>
+    I couldn't afford formal education at the time, but as every good computer scientist knows, <strong>EVERYTHING is on the net</strong>. With that mantra, I began to gather knowledge as a self-taught developer.
+  </p>
+  <p>
+    From Batch, I moved on to more elaborate scripts with PowerShell and Bash, which evolved into menus with Python. I progressed towards graphical interfaces, first with Tkinter and later with what became my next obsession: web interfaces.
+  </p>
+  <p>
+    Parallel to exploring Django as a Swiss Army knife to bring my ideas to life, I was delving into the world of art—a world that gave me a new perspective on programming. It was no longer just about coding for utility: now that utility had a shape, a graphic experience associated with it. This led me to focus more on the visual side without neglecting pillars like <strong>optimization</strong> and <strong>best practices</strong>.
+  </p>
+  <p>
+    Pillars that, as I continued developing projects on my own, were strengthening in the best possible way: not because someone told me "do this" or "do that," but because I was <strong>thinking</strong>, and thinking about how to do things in the <strong>best way</strong> I could find.
+  </p>
+  <br>
+  <p>
+    🎓 <strong>Currently:</strong> Now, at 21 years old, I am finishing my Higher Degree in <strong>Web Application Development</strong>, with more knowledge than ever: from <strong>Java</strong> with its OOP, <strong>JavaScript</strong> with its asynchrony and "everything is an object" approach, <strong>PHP</strong> with its versatility, and tools like <strong>Docker</strong>, <strong>GitHub</strong>, and <strong>relational databases</strong>.
+  </p>
+  <p>
+    I envision a future connected to computing, no longer in such a childish way, but with a desire to contribute to a great project where I can fully commit myself and think big.
+  </p>
+  <blockquote>
+    <p><strong>NOTE TO THE READER:</strong> I recently discovered <strong>"TEST DRIVEN DEVELOPMENT" (TDD)</strong> and I really liked the concept. From now on, all my programs will have that professional implementation that I believe they were lacking. My favorite working methodologies are <strong>AGILE</strong> and <strong>TDD</strong>.</p>
+  </blockquote>
+</details>
 <br>
 <hr>
 <br>
@@ -154,6 +182,7 @@
 | **🤐 [AnonChat](https://github.com/verdux0/anonchat-)** | Chat anónimo seguro para canalizar quejas a RRHH protegiendo la identidad del empleado. | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![Security](https://img.shields.io/badge/Security-Lock-red?style=plastic) |
 | **🎨 CSS Tools** | *GUI* intuitiva para generar layouts en Grid, Flexbox y Float sin tocar código manualmente (pendiente de ser revisada). | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=plastic&logo=javascript&logoColor=black) |
 | **💻 [ansi-html-tags](https://github.com/verdux0/ansi-html-tags)** | Script para cargar banners ASCII y estilos en terminales UNIX/Linux. | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white) ![Unix](https://img.shields.io/badge/Unix-black?style=plastic&logo=linux) |
+| **💻muro de reseñas** | ¿no sería increible poder ver las opiones de otros sobre el perfil que estas visitando? etapa conceptual | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white) |
 
 <br>
 
@@ -280,18 +309,29 @@
 <hr>
 <br>
 
+
+<h2 align="center">📬 CONTACTAME‼️ </h2>
+
 <div align="center">
-  <h3>Contacto</h3>
-  <p>Si estás interesado en contratarme para algún proyecto o colaboración, no dudes en contactarme a través de mi correo electrónico:</p>
-  <p><strong>alvaroverdeguertrabajo@gmail.com</strong></p>
-  <p>Estoy abierto a nuevas oportunidades y desafíos en el campo de la programación y el arte digital.</p>
-  <p align="center">
-    <a href="https://linkedin.com/in/alvaro-verdeguer" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvaro-verdeguer" height="30" width="40" />
-    </a>
-  </p>
+  <p>Estoy abierto a nuevas oportunidades y colaboraciones, si tienes alguna propuesta no seas tímido ;P .</p>
+  
+  <br>
+
+  <!-- Botones de Contacto Directo -->
+  <a href="mailto:alvaroverdeguertrabajo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar Correo" height="45">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/alvaro-verdeguer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="45">
+  </a>
+
+  <br><br>
+
+
 </div>
 
+<br>
 <p align="center">
   <img src="https://web.archive.org/web/20040409202342/http://www.geocities.com:80/artists_tzora/images/flowerbar.gif">
 </p>
