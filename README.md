@@ -1,471 +1,174 @@
 
-<div align="center">
-  <img width="1291" height="152" alt="header" src="https://github.com/user-attachments/assets/5d3d2407-2209-4c57-95c0-0d2d96a622e6" />
+
+<details id="ABOUT_ME" align="left" >
+<summary>$${\color{lightgreen} SOBRE \space MI😁 }$$</summary>
+
+  <h3>👨‍💻Álvaro Verdeguer Alarcón</h3>
+  <p>
+    Soy una persona creativa y, por qué no decirlo, a veces obsesiva. Con 14 años me regalaron mi primer ordenador, y el mundo de la informática me asombró profundamente. Empecé a gamberrear creando virus tontos en Batch y, poco a poco, ese amor fue escalando mediante proyectos cada vez más ambiciosos, hasta el punto en el que nos encontramos hoy en día.
+  </p>
+  <p>
+    No podía permitirme unos estudios reglados, pero como todo buen informático sabe, <strong>TODO está en la red</strong>, y con ese mantra empecé a recopilar conocimientos de forma autodidacta.
+  </p>
+  <p>
+    De Batch pasé a scripts más elaborados con PowerShell y Bash, que se convirtieron en menús con Python. Evolucioné hacia las interfaces gráficas, primero con Tkinter y, más adelante, con lo que fue mi siguiente foco de obsesión: las interfaces web.
+  </p>
+  <p>
+    Paralelamente a la exploración con Django como navaja suiza para llevar a cabo mis ideas, iba adentrándome en el mundo del arte, un mundo que me dio una nueva perspectiva sobre la programación. Ya no era programar solo por utilidad: ahora esa utilidad tenía una forma, tenía una experiencia gráfica asociada. Esto me llevó a enfocarme más en el lado visual sin dejar de lado pilares como la <strong>optimización</strong> y las <strong>buenas prácticas</strong>.
+  </p>
+  <p>
+    Pilares que, a medida que seguía desarrollando proyectos de forma autodidacta, se iban fortaleciendo, y de la mejor manera posible: no porque alguien me dijera “haz esto” o “haz lo otro”, sino porque <strong>pensaba</strong>, y pensaba en cómo hacer las cosas de la <strong>mejor manera</strong> que conseguía encontrar.
+  </p>
   <br>
-  <img width="831" height="130" alt="subheader" src="https://github.com/user-attachments/assets/8d3e62f7-ec07-4f4b-9f6b-1008beae348c" />
-</div>
+  <p>
+    🎓 <strong>Actualidad:</strong> Ahora, con 21 años, me encuentro finalizando el grado superior de <strong>Desarrollo de Aplicaciones Web</strong>, con más conocimientos que nunca: desde <strong>Java</strong> con su POO, <strong>JavaScript</strong> con su asincronía y su “todo es un objeto”, <strong>PHP</strong> con su versatilidad, y herramientas como <strong>Docker</strong>, <strong>GitHub</strong> y <strong>bases de datos relacionales</strong>.
+  </p>
+  <p>
+    Atisbo un futuro conectado a la informática, ya no de una manera tan infantil, sino con ganas de aportar a un gran proyecto en el que poder volcarme y pensar a lo grande.
+  </p>
+  
+  <blockquote>
+    <p><strong>NOTA PARA EL LECTOR:</strong> Hace poco descubrí lo conocido como <strong>"TEST DRIVEN DEVELOPMENT" (TDD)</strong> y me gustó mucho la idea. A partir de ahora todos mis programas tendrán esa implementación profesional que creo que les falta. Mis metodologías de trabajo favoritas son <strong>AGILE</strong> y <strong>TDD</strong>.</p>
+  </blockquote>
+</details>
 
-<br>
+
+# $${\color{lightblue} MIS \space PROYECTOS!🎉 }$$
+
 <div align="center">
 
+  <br>
+  
+  <span style="font-size: 1.2em; color: #333;">
+  🤖 <a href="#" style="color: #0e75b6; text-decoration: none;">Desarrollar un chatbot</a> con Node.js.
+  </span>
+  <br>
+
+  <span style="font-size: 1.2em; color: #333;">
+  📷 <del><span>programa de edición de imagenes. </span></del><a href="https://github.com/CorsoCoder/MODT" style="color: #0e75b6; text-decoration: none;">MOD-T </a>
+  </span>
+    
+  <br>
+  
+  <span style="font-size: 1.2em; color: #333;">
+      ...ASI QUE ESTATÉ ATENTO❗❗
+  </span>
 </div>
 
----
-
-## 🌍 Select Language / Seleccionar Idioma
-
-<details align="center">
-<summary><img src="https://flagcdn.com/w20/es.png" alt="Español" width="20" height="15"> <strong>Versión en Español</strong></summary>
-
 <br>
+<hr>
+<br>
+
+<div align="center">
+  <img src="https://web.archive.org/web/20090727211214/http://www.geocities.com/francesconestela/bignerd.gif" alt="nerd" width="50px">
+  <h3>🛠️ Arsenal Tecnológico</h3>
+</div>
 
 <div align="center">
   
-## 👨‍💻 Sobre Mí
+  <!-- Frontend Table -->
+  <table>
+    <tr>
+      <th colspan="2" align="center">🎨 Frontend & UI</th>
+    </tr>
+    <tr>
+      <td align="center"><strong>Aprendido</strong></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white" />
+        <img src="https://img.shields.io/badge/AJAX-blue?style=plastic&logo=rss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>En Proceso</strong></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D" />
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- Backend Table -->
+  <table>
+    <tr>
+      <th colspan="2" align="center">⚙️ Backend & Scripting</th>
+    </tr>
+    <tr>
+      <td align="center"><strong>Aprendido</strong></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>En Proceso</strong></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- Tools & Data Table -->
+  <table>
+    <tr>
+      <th align="center">🗄️ BBDD</th>
+      <th align="center">🔧 Herramientas & DevOps</th>
+      <th align="center">🖌️ Diseño</th>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" /><br>
+        <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/Adobe%20Ps-31A8FF?style=plastic&logo=adobe%20photoshop&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Adobe%20Ai-FF9A00?style=plastic&logo=adobe%20illustrator&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+
+  <br>
   
-**Desarrollador Full-Stack | Especialista en Ciberseguridad | Pentester en formación**
-  
-Metódico, creativo y apasionado por la seguridad informática. Me especializo en desarrollo backend con Java y Python, explorando el mundo de JavaScript mientras fortalezco sistemas con contenedores Docker y orquestación Kubernetes. Tengo amplia experiencia en Django, scripting con PowerShell/Bash, y me desenvuelvo en cualquier entorno. Mi enfoque: tener todo atado y seguro, desde el código hasta la infraestructura.
-
-**Perfiles:**
-- 🔐 TryHackMe: `verduXor` / `verduxo`
-- 💻 GitHub: `verdux0` (activo) y `corsoCoder` (proyectos anteriores)
-
-</div>
-
----
-
-## 🎯 Áreas de Especialización
-
-### 🔐 Ciberseguridad & Pentesting
-<details>
-<summary><strong>Seguridad y Hacking Ético</strong></summary>
-
-<div align="center">
-
-| Tecnología/Habilidad | Nivel | 
-|---|---|
-| TryHackMe / HackTheBox | ⭐⭐⭐⭐ |
-| Análisis de vulnerabilidades | ⭐⭐⭐⭐ |
-| Scripting para automatización (Bash/PowerShell) | ⭐⭐⭐⭐ |
-| Hardening de servidores | ⭐⭐⭐⭐ |
-| Metodologías de pentesting | ⭐⭐⭐ |
-| Análisis forense básico | ⭐⭐⭐ |
-
-</div>
-</details>
-
----
-
-### 🌐 Desarrollo Web & Backend
-<details>
-<summary><strong>Backend Principal</strong></summary>
-
-<div align="center">
-
-| Tecnología | Nivel | 
-|---|---|
-| <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white"> Java (Spring Boot, Maven) | ⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"> Python | ⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white"> Django (Experto) | ⭐⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"> JavaScript | ⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white"> PHP | ⭐⭐⭐ |
-| Web scraping (Java/Python) | ⭐⭐⭐⭐ |
-
-</div>
-</details>
-
-<details>
-<summary><strong>Bases de Datos</strong></summary>
-
-<div align="center">
-
-| Tecnología | Nivel |
-|---|---|
-| <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white"> MySQL | ⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white"> PostgreSQL | ⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white"> SQLite | ⭐⭐⭐ |
-| MongoDB | ⭐⭐ |
-
-</div>
-</details>
-
----
-
-### 🐳 DevOps & Infraestructura
-<details>
-<summary><strong>Servidores & Contenedores</strong></summary>
-
-<div align="center">
-
-| Tecnología | Nivel |
-|---|---|
-| <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white"> Nginx (Principal) | ⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white"> Apache | ⭐⭐⭐ |
-| Tomcat (Java) | ⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"> Docker | ⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=plastic&logo=kubernetes&logoColor=white"> Kubernetes | ⭐⭐ |
-| <img src="https://img.shields.io/badge/linux-FCC624?style=plastic&logo=linux&logoColor=black"> Linux (Admin) | ⭐⭐⭐⭐ |
-
-</div>
-</details>
-
-<details>
-<summary><strong>Scripting & Automatización</strong></summary>
-
-<div align="center">
-
-| Tecnología | Nivel |
-|---|---|
-| <img src="https://img.shields.io/badge/bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white"> Bash Scripting | ⭐⭐⭐⭐ |
-| PowerShell Scripting | ⭐⭐⭐⭐ |
-| Automatización de tareas | ⭐⭐⭐⭐ |
-| CI/CD Pipeline básico | ⭐⭐⭐ |
-
-</div>
-</details>
-
----
-
-### 💻 Desarrollo de Software
-<details>
-<summary><strong>Lenguajes & Frameworks</strong></summary>
-
-<div align="center">
-
-| Tecnología | Nivel |
-|---|---|
-| <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"> C++ | ⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/qt-%23217346.svg?style=plastic&logo=qt&logoColor=white"> Qt (Interfaces desktop) | ⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/arduino-00979D?style=plastic&logo=arduino&logoColor=white"> Arduino | ⭐⭐ |
-| Desarrollo de APIs REST | ⭐⭐⭐⭐ |
-| Arquitectura de software | ⭐⭐⭐⭐ |
-
-</div>
-</details>
-
-<details>
-<summary><strong>Frontend en Exploración</strong></summary>
-
-<div align="center">
-
-| Tecnología | Nivel |
-|---|---|
-| <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"> HTML5 | ⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"> CSS3 | ⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white"> Bootstrap | ⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=react&logoColor=white"> React | Aprendiendo |
-| <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=plastic&logo=vue.js&logoColor=white"> Vue.js | Aprendiendo |
-| TypeScript | Descubriendo |
-
-</div>
-</details>
-
----
-
-### 🛠️ Herramientas & Control
-<details>
-<summary><strong>Ecosistema de Desarrollo</strong></summary>
-
-<div align="center">
-
-| Tecnología | Nivel |
-|---|---|
-| <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white"> Git | ⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white"> GitHub | ⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white"> Heroku | ⭐⭐⭐ |
-| Maven/Gradle (Java) | ⭐⭐⭐⭐ |
-| Postman/Insomnia | ⭐⭐⭐⭐ |
-| Virtualización (VMware/VirtualBox) | ⭐⭐⭐⭐ |
-
-</div>
-</details>
-
----
-
-## 🎨 Proyectos Destacados
-
-<div align="center">
-
-| Proyecto | Tecnologías | Descripción |
-|---|---|---|
-| **Scraper de Recuperación** | Java, Selenium, MySQL | Sistema de scraping avanzado para recuperación automatizada de datos |
-| **Plataforma Django** | Django, PostgreSQL, Nginx | Aplicación web completa con autenticación, API y panel administrativo |
-| **Herramientas Pentesting** | Python, Bash, PowerShell | Scripts y herramientas personalizadas para evaluaciones de seguridad |
-| **Aplicación Desktop Qt** | C++, Qt, SQLite | Interfaz gráfica para gestión de recursos con base de datos local |
-
-</div>
-
----
-
-## 📫 Contacto
-
-<div align="center">
-
-¿Interesado en seguridad, desarrollo backend o infraestructura robusta? ¡Hablemos!
-
-<br>
-
-**📧 Correo Electrónico:** `alvaroverdeguertrabajo@gmail.com`
-
-[![Contactar](https://img.shields.io/badge/Contáctame_por_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alvaroverdeguertrabajo@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Perfil-212121?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/verduXor)
-
-<br>
-
-**Encuéntrame en:**
-
-[![GitHub Principal](https://img.shields.io/badge/GitHub-verdux0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Verdux0)
-[![GitHub Secundario](https://img.shields.io/badge/GitHub-corsoCoder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/corsoCoder)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvaro-verdeguer)
+  <h3>🧠 Metodologías de trabajo</h3>
+  <img src="https://img.shields.io/badge/Agile-E0E0E0?style=plastic&logo=scrumalliance&logoColor=black" alt="Agile">
+  <img src="https://img.shields.io/badge/TDD-Test%20Driven%20Dev-green?style=plastic&logo=checkmarx&logoColor=white" alt="TDD">
 
 </div>
 
 <br>
+<hr>
+<br>
 
----
+<div align="center">
+  <h3>Contacto</h3>
+  <p>Si estás interesado en contratarme para algún proyecto o colaboración, no dudes en contactarme a través de mi correo electrónico:</p>
+  <p><strong>alvaroverdeguertrabajo@gmail.com</strong></p>
+  <p>Estoy abierto a nuevas oportunidades y desafíos en el campo de la programación y el arte digital.</p>
+  <p align="center">
+    <a href="https://linkedin.com/in/alvaro-verdeguer" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvaro-verdeguer" height="30" width="40" />
+    </a>
+  </p>
+</div>
 
 <p align="center">
-  <em>"Metódico, seguro y creativo. Donde otros ven código, yo veo estructura, seguridad y posibilidad."</em>
+  <img src="https://web.archive.org/web/20040409202342/http://www.geocities.com:80/artists_tzora/images/flowerbar.gif">
 </p>
-
-</details>
-
----
-
-<details align="center">
-<summary><img src="https://flagcdn.com/w20/gb.png" alt="English" width="20" height="15"> <strong>English Version</strong></summary>
-
-<br>
-
-<div align="center">
-  
-## 👨‍💻 About Me
-  
-**Full-Stack Developer | Cybersecurity Specialist | Pentester in Training**
-  
-Methodical, creative, and passionate about cybersecurity. I specialize in backend development with Java and Python, exploring the JavaScript world while securing systems with Docker containers and Kubernetes orchestration. Extensive experience with Django, PowerShell/Bash scripting, and I can handle any environment. My approach: keeping everything tied down and secure, from code to infrastructure.
-
-**Profiles:**
-- 🔐 TryHackMe: `verduXor` / `verduxo`
-- 💻 GitHub: `verdux0` (active) and `corsoCoder` (previous projects)
-
-</div>
-
----
-
-## 🎯 Areas of Expertise
-
-### 🔐 Cybersecurity & Pentesting
-<details>
-<summary><strong>Security & Ethical Hacking</strong></summary>
-
-<div align="center">
-
-| Technology/Skill | Level | 
-|---|---|
-| TryHackMe / HackTheBox | ⭐⭐⭐⭐ |
-| Vulnerability analysis | ⭐⭐⭐⭐ |
-| Scripting for automation (Bash/PowerShell) | ⭐⭐⭐⭐ |
-| Server hardening | ⭐⭐⭐⭐ |
-| Pentesting methodologies | ⭐⭐⭐ |
-| Basic forensic analysis | ⭐⭐⭐ |
-
-</div>
-</details>
-
----
-
-### 🌐 Web & Backend Development
-<details>
-<summary><strong>Main Backend</strong></summary>
-
-<div align="center">
-
-| Technology | Level | 
-|---|---|
-| <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white"> Java (Spring Boot, Maven) | ⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"> Python | ⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white"> Django (Expert) | ⭐⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"> JavaScript | ⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white"> PHP | ⭐⭐⭐ |
-| Web scraping (Java/Python) | ⭐⭐⭐⭐ |
-
-</div>
-</details>
-
-<details>
-<summary><strong>Databases</strong></summary>
-
-<div align="center">
-
-| Technology | Level |
-|---|---|
-| <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white"> MySQL | ⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white"> PostgreSQL | ⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white"> SQLite | ⭐⭐⭐ |
-| MongoDB | ⭐⭐ |
-
-</div>
-</details>
-
----
-
-### 🐳 DevOps & Infrastructure
-<details>
-<summary><strong>Servers & Containers</strong></summary>
-
-<div align="center">
-
-| Technology | Level |
-|---|---|
-| <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white"> Nginx (Primary) | ⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white"> Apache | ⭐⭐⭐ |
-| Tomcat (Java) | ⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"> Docker | ⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=plastic&logo=kubernetes&logoColor=white"> Kubernetes | ⭐⭐ |
-| <img src="https://img.shields.io/badge/linux-FCC624?style=plastic&logo=linux&logoColor=black"> Linux (Admin) | ⭐⭐⭐⭐ |
-
-</div>
-</details>
-
-<details>
-<summary><strong>Scripting & Automation</strong></summary>
-
-<div align="center">
-
-| Technology | Level |
-|---|---|
-| <img src="https://img.shields.io/badge/bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white"> Bash Scripting | ⭐⭐⭐⭐ |
-| PowerShell Scripting | ⭐⭐⭐⭐ |
-| Task automation | ⭐⭐⭐⭐ |
-| Basic CI/CD Pipeline | ⭐⭐⭐ |
-
-</div>
-</details>
-
----
-
-### 💻 Software Development
-<details>
-<summary><strong>Languages & Frameworks</strong></summary>
-
-<div align="center">
-
-| Technology | Level |
-|---|---|
-| <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"> C++ | ⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/qt-%23217346.svg?style=plastic&logo=qt&logoColor=white"> Qt (Desktop interfaces) | ⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/arduino-00979D?style=plastic&logo=arduino&logoColor=white"> Arduino | ⭐⭐ |
-| REST API Development | ⭐⭐⭐⭐ |
-| Software architecture | ⭐⭐⭐⭐ |
-
-</div>
-</details>
-
-<details>
-<summary><strong>Frontend Exploration</strong></summary>
-
-<div align="center">
-
-| Technology | Level |
-|---|---|
-| <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"> HTML5 | ⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"> CSS3 | ⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white"> Bootstrap | ⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=react&logoColor=white"> React | Learning |
-| <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=plastic&logo=vue.js&logoColor=white"> Vue.js | Learning |
-| TypeScript | Discovering |
-
-</div>
-</details>
-
----
-
-### 🛠️ Tools & Control
-<details>
-<summary><strong>Development Ecosystem</strong></summary>
-
-<div align="center">
-
-| Technology | Level |
-|---|---|
-| <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white"> Git | ⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white"> GitHub | ⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white"> Heroku | ⭐⭐⭐ |
-| Maven/Gradle (Java) | ⭐⭐⭐⭐ |
-| Postman/Insomnia | ⭐⭐⭐⭐ |
-| Virtualization (VMware/VirtualBox) | ⭐⭐⭐⭐ |
-
-</div>
-</details>
-
----
-
-## 🎨 Featured Projects
-
-<div align="center">
-
-| Project | Technologies | Description |
-|---|---|---|
-| **Data Recovery Scraper** | Java, Selenium, MySQL | Advanced scraping system for automated data recovery |
-| **Django Platform** | Django, PostgreSQL, Nginx | Complete web application with authentication, API and admin panel |
-| **Pentesting Tools** | Python, Bash, PowerShell | Custom scripts and tools for security assessments |
-| **Qt Desktop Application** | C++, Qt, SQLite | GUI for resource management with local database |
-
-</div>
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-Interested in security, backend development or robust infrastructure? Let's talk!
-
-<br>
-
-**📧 Email:** `alvaroverdeguertrabajo@gmail.com`
-
-[![Contact by Email](https://img.shields.io/badge/Contact_by_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alvaroverdeguertrabajo@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212121?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/verduXor)
-
-<br>
-
-**Find me on:**
-
-[![Main GitHub](https://img.shields.io/badge/GitHub-verdux0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Verdux0)
-[![Secondary GitHub](https://img.shields.io/badge/GitHub-corsoCoder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/corsoCoder)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvaro-verdeguer)
-
-</div>
-
-<br>
-
----
-
-<p align="center">
-  <em>"Methodical, secure, and creative. Where others see code, I see structure, security, and possibility."</em>
-</p>
-
-</details>
-
----
-
-<div align="center">
-
-## ⭐ GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=verdux0&theme=react-dark&hide_border=true&custom_title=Recent+Activity)
-
-</div>
-
----
-
-<div align="center">
-  
-**¡Gracias por visitar mi perfil!** | **Thanks for visiting my profile!** 🙌
-
-**🔒 Stay secure, code safely.**
-
-</div>
