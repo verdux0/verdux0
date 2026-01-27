@@ -318,7 +318,7 @@
   <br>
 
   <!-- Botones de Contacto Directo -->
-  <a href="mailto:alvaroverdeguertrabajo@gmail.com" target="_blank">
+  <a href="mailto:verdeguertrabajo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar Correo" height="45">
   </a>
   &nbsp;&nbsp;&nbsp;
