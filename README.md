@@ -191,7 +191,7 @@
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| **🎵 Makinamania Downloader** | Me gusta la música, y sobre todo la *makina* (género del levante español). Para recopilarla con calidad de forma eficiente, programé un scraper que analiza y genera un JSON con todos los POSTS relevantes del FORO MAKINAMANIA actualmente activo. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white) ![Scraping](https://img.shields.io/badge/Jsoup-orange?style=plastic) |
+| **[🎵 Makinamania Downloader](https://github.com/verdux0/MAKINAMANIA-downloader)** | Me gusta la música, y sobre todo la *makina* (género del levante español). Para recopilarla con calidad de forma eficiente, programé un scraper que analiza y genera un JSON con todos los POSTS relevantes del FORO MAKINAMANIA actualmente activo. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white) ![Scraping](https://img.shields.io/badge/Jsoup-orange?style=plastic) |
 | **🚩 CTF Tools(lost media)** | Repositorio personal donde organizo y documento herramientas que utilizo para hacer CTFs. | ![Hacking](https://img.shields.io/badge/Hacking-Ethical-green?style=plastic&logo=hackthebox) ![Bash](https://img.shields.io/badge/Shell-Script-blue?style=plastic) |
 
 <br>
