@@ -92,6 +92,7 @@
     <tr>
       <td align="center"><strong>En Proceso</strong></td>
       <td align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D" />
       </td>
@@ -180,7 +181,7 @@
 | :--- | :--- | :--- |
 | **🏆 Mi Portfolio** | Ya existió una versión muy expandida con muchas funcionalidades, pero una corrupción de disco duro y una estafa de un proveedor hizo que perdiese el código. ¡AHORA me propongo crear una versión con React.js con **MÁS y MEJORES** funcionalidades y enfoque! | ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white) |
 | **🤐 [AnonChat](https://github.com/verdux0/anonchat-)** | Chat anónimo seguro para canalizar quejas a RRHH protegiendo la identidad del empleado. | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white) ![API](https://img.shields.io/badge/API-005571?style=plastic&logo=swagger&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white) ![Security](https://img.shields.io/badge/Security-Lock-red?style=plastic) |
-| **🎨 CSS Tools** | *GUI* intuitiva para generar layouts en Grid, Flexbox y Float sin tocar código manualmente (pendiente de ser revisada). | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=plastic&logo=javascript&logoColor=black) |
+| **[🎨 CSS Tools](https://github.com/verdux0/flexbox-playground)** | *GUI* intuitiva para generar layouts en Grid, Flexbox y Float sin tocar código manualmente (pendiente de ser revisada). | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=plastic&logo=javascript&logoColor=black) |
 | **💻 [ansi-html-tags](https://github.com/verdux0/ansi-html-tags)** | Script para cargar banners ASCII y estilos en terminales UNIX/Linux. | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white) ![Unix](https://img.shields.io/badge/Unix-black?style=plastic&logo=linux) |
 | **💻muro de reseñas** | ¿no sería increible poder ver las opiones de otros sobre el perfil que estas visitando? etapa conceptual | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white) |
 
@@ -191,7 +192,7 @@
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
 | **🎵 Makinamania Downloader** | Me gusta la música, y sobre todo la *makina* (género del levante español). Para recopilarla con calidad de forma eficiente, programé un scraper que analiza y genera un JSON con todos los POSTS relevantes del FORO MAKINAMANIA actualmente activo. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white) ![Scraping](https://img.shields.io/badge/Jsoup-orange?style=plastic) |
-| **🚩 CTF Tools** | Repositorio personal donde organizo y documento herramientas que utilizo para hacer CTFs. | ![Hacking](https://img.shields.io/badge/Hacking-Ethical-green?style=plastic&logo=hackthebox) ![Bash](https://img.shields.io/badge/Shell-Script-blue?style=plastic) |
+| **🚩 CTF Tools(lost media)** | Repositorio personal donde organizo y documento herramientas que utilizo para hacer CTFs. | ![Hacking](https://img.shields.io/badge/Hacking-Ethical-green?style=plastic&logo=hackthebox) ![Bash](https://img.shields.io/badge/Shell-Script-blue?style=plastic) |
 
 <br>
 
@@ -200,7 +201,7 @@
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
 | **🕵️‍♂️ Spam & Abuse Detector** | Clasificador de texto para moderación automática (se implementará próximamente en AnonChat). | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-NLP-yellow?style=plastic) |
-| **🔢 Number Detector** | Reconocimiento de dígitos manuscritos con interfaz web. | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white) ![Web](https://img.shields.io/badge/Web-Interface-blue?style=plastic) |
+| **[🔢 Number Detector](https://github.com/verdux0/MNIST-Web-Digit-Recognizer-CNN)** | Reconocimiento de dígitos manuscritos con interfaz web. | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white) ![Web](https://img.shields.io/badge/Web-Interface-blue?style=plastic) |
 | **🧠 Profile Readme Gen** | Proyecto que voy a desarrollar **100% con IA** para aplicar mis conocimientos sobre *prompt engineering*. El objetivo no es el resultado, sino el proceso. | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white) ![Prompts](https://img.shields.io/badge/Prompt-Engineering-purple?style=plastic) |
 
 <br>
@@ -245,25 +246,25 @@
     <tr>
       <td align="center" width="25%">
         <a href="https://tryhackme.com/Verduxo/badges/terminaled">
-          <img src="https://tryhackme.com/img/badges/linux.svg" alt="Terminaled" width="100"><br>
+          <img src="https://assets.tryhackme.com/img/badges/linux.png" width="100"><br>
           <b>Terminaled</b>
         </a>
       </td>
       <td align="center" width="25%">
         <a href="https://tryhackme.com/Verduxo/badges/network-fundamentals">
-          <img src="https://tryhackme.com/img/badges/networkfundamentals.svg" alt="Network Fundamentals" width="100"><br>
+          <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.png" alt="Network Fundamentals" width="100"><br>
           <b>Network Fundamentals</b>
         </a>
       </td>
       <td align="center" width="25%">
         <a href="https://tryhackme.com/Verduxo/badges/world-wide-web">
-          <img src="https://tryhackme.com/img/badges/howthewebworks.svg" alt="World Wide Web" width="100"><br>
+          <img src="https://assets.tryhackme.com/img/badges/howthewebworks.png" alt="World Wide Web" width="100"><br>
           <b>World Wide Web</b>
         </a>
       </td>
       <td align="center" width="25%">
         <a href="https://tryhackme.com/Verduxo/badges/metasploitable">
-          <img src="https://tryhackme.com/img/badges/metasploit.svg" alt="Metasploitable" width="100"><br>
+          <img src="https://assets.tryhackme.com/img/badges/metasploit.png" alt="Metasploitable" width="100"><br>
           <b>Metasploitable</b>
         </a>
       </td>
@@ -271,25 +272,25 @@
     <tr>
       <td align="center">
         <a href="https://tryhackme.com/Verduxo/badges/burped">
-          <img src="https://tryhackme.com/img/badges/burpsuite.svg" alt="Burped" width="100"><br>
+          <img src="https://assets.tryhackme.com/img/badges/burpsuite.png" alt="Burped" width="100"><br>
           <b>Burped</b>
         </a>
       </td>
       <td align="center">
         <a href="https://tryhackme.com/Verduxo/badges/intro-to-pentesting">
-          <img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" alt="Intro to Pentesting" width="100"><br>
+          <img src="https://assets.tryhackme.com/img/badges/introtooffensivesecurity.png" alt="Intro to Pentesting" width="100"><br>
           <b>Intro to Pentesting</b>
         </a>
       </td>
       <td align="center">
         <a href="https://tryhackme.com/Verduxo/badges/ohsint">
-          <img src="https://tryhackme.com/img/badges/ohsint.svg" alt="OhSINT" width="100"><br>
+          <img src="https://assets.tryhackme.com/img/badges/ohsint.png" alt="OhSINT" width="100"><br>
           <b>OhSINT</b>
         </a>
       </td>
       <td align="center">
         <a href="https://tryhackme.com/Verduxo/badges/blue">
-          <img src="https://tryhackme.com/img/badges/blue.svg" alt="Blue" width="100"><br>
+          <img src="https://assets.tryhackme.com/img/badges/blue.png" alt="Blue" width="100"><br>
           <b>Blue</b>
         </a>
       </td>
